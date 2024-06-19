@@ -52,3 +52,11 @@ Resnet50-D<br>
 <img width="951" alt="image" src="https://github.com/9-coding/ComputerVision_TeamProject/assets/127665166/da78e3fb-e6cc-468c-b2cc-855c141526ae"><br>
 Compare with resnet50d, resnext101, resnet50, resnet101, resnet152, densenet121, densenet161, vgg16, ViT, efficientnet-b4, efficientnet-b7, efficientnet-v2, and inception_v3.<br>
 Then, resnet50d has the highest accuracy.
+
+### Conclusion
+![image](https://github.com/9-coding/ComputerVision_TeamProject/assets/127665166/44e02002-3493-4924-a231-bad809433d69)
+
+
+- GradCAM
+![image](https://github.com/9-coding/ComputerVision_TeamProject/assets/127665166/5a544a5e-5474-4cd2-89e4-33ee82a6a42d)
+
